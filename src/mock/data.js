@@ -32,11 +32,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    title: 'Hadi project',
+    info: 'this is',
+    info2: 'my project',
+    url: 'https://github.com/Hadi2019/Programming-Assignment03',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
